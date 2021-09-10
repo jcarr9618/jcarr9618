@@ -1,9 +1,7 @@
-### Hi there, I'm Jamie 👋
 
-## I'm an Infrastructure Engineer teaching himself to code!
-
-
+- 👋 Hi, I'm @jcarr9618 👋
+- 👨‍💻 I'm an Infrastructure Engineer teaching himself to code
 - 🔭 I’m currently working on my first FastAPI web app
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m interested in HTML, CSS and Python 🐍
 - 🥅 2021 Goals: Create dynamic web apps with Python
 
