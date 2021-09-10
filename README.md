@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamie 👋
 
-## I'm currently an Infrastructure Engineer teaching himself to code!
+## I'm an Infrastructure Engineer teaching himself to code!
 
 
 - 🔭 I’m currently working on my first FastAPI web app
