@@ -5,3 +5,4 @@
 - 🌱 I’m interested in HTML, CSS and Python 🐍
 - 🥅 2021 Goals: Create dynamic web apps with Python
 
+- Currently working through: Udacity - Introduction to Python Programming 🐍 
